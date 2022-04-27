@@ -19,3 +19,5 @@ go run main.go
 go build main.go
 ./main
 ```
+
+<!-- fmt stands for format package -->
