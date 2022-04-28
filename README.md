@@ -21,3 +21,5 @@ go build main.go
 ```
 
 <!-- fmt stands for format package -->
+
+https://gobyexample.com/
